@@ -32,7 +32,7 @@ function App() {
   };
   return (
     <div className="container">
-      <h1>Google Gemini Pro AI Integration With React</h1>
+      <h1>Story Generator</h1>
       <div className="mt-5 mb-5">
         <form onSubmit={handleSubmit}>
           <div className="row d-flex align-items-end">
